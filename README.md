@@ -16,4 +16,4 @@ For help getting started with Flutter, view the [online documentation](https://f
 
 ## Looking for more _Succinctly_ titles?
 
-Check out the entire library of more than 150 _Succinctly_ ebooks at [https://www.syncfusion.com/resources/techportal/ebooks](https://www.syncfusion.com/resources/techportal/ebooks).
+Check out the entire library of more than 150 _Succinctly_ ebooks at [https://www.syncfusion.com/ebooks](https://www.syncfusion.com/ebooks).
