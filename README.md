@@ -1,9 +1,5 @@
 # Flutter Succinctly
-This is the companion repo for [*Flutter Succinctly*](https://www.syncfusion.com/resources/techportal/details/ebooks/FillwithBookLandingPageUrl) by Ed Freitas. Published by Syncfusion.
-
-# flutter_app
-
-A new Flutter application.
+This is the companion repo for [*Flutter Succinctly*](https://www.syncfusion.com/ebooks/flutter) by Ed Freitas. Published by Syncfusion.
 
 ## Getting Started
 
@@ -14,11 +10,9 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter, view the [online documentation](https://flutter.io/docs), which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
-[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Flutter-Succinctly/blob/master/Fluttercover.png)](https://www.syncfusion.com/resources/techportal/details/ebooks/FillwithBookLandingPageUrl)
+[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Flutter-Succinctly/blob/master/Fluttercover.png)](https://www.syncfusion.com/ebooks/flutter)
 
 ## Looking for more _Succinctly_ titles?
 
