@@ -1,5 +1,5 @@
 # Flutter Succinctly
-This is the companion repo for [*Flutter Succinctly*](https://www.syncfusion.com/ebooks/flutter) by Ed Freitas. Published by Syncfusion.
+This is the companion repo for [*Flutter Succinctly*](https://www.syncfusion.com/ebooks/flutter-succinctly) by Ed Freitas. Published by Syncfusion.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter, view the [online documentation](https://flutter.io/docs), which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
-[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Flutter-Succinctly/blob/master/Fluttercover.png)](https://www.syncfusion.com/ebooks/flutter)
+[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Flutter-Succinctly/blob/master/Fluttercover.png)](https://www.syncfusion.com/ebooks/flutter-succinctly)
 
 ## Looking for more _Succinctly_ titles?
 
